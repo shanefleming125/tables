@@ -1,0 +1,19 @@
+td{
+    border: 1px solid gray;
+    background-color: red;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    }
+th{
+    background-color: aqua;
+}
+table{
+    background-color: aliceblue;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+caption{
+        font-weight: bold;
+}
